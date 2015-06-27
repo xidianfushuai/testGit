@@ -1,0 +1,30 @@
+[33mcommit f1260dd0310ae2cec557258b1547f5d01e75a830[m
+Author: xidianfushuai <1048367400@qq.com>
+Date:   Sat Jun 27 16:23:50 2015 +0800
+
+    add a line
+
+[33mcommit 38a83032f23baea60b37e99c80190f45be5c1f7c[m
+Merge: 1e4333e c807e4e
+Author: xidianfushuai <1048367400@qq.com>
+Date:   Sat Jun 27 16:13:09 2015 +0800
+
+    fix a confict
+
+[33mcommit 1e4333e98c451b13ef1256c87dee411912098827[m
+Author: xidianfushuai <1048367400@qq.com>
+Date:   Sat Jun 27 15:58:52 2015 +0800
+
+    fix some errors
+
+[33mcommit c807e4e0066fe1fedbeeba9ba13be0e96d5d4f4c[m
+Author: xidianfushuai <1048367400@qq.com>
+Date:   Sat Jun 27 15:52:55 2015 +0800
+
+    fix some errors
+
+[33mcommit 788ca9b940389e32942163529dfa84a59dd612fb[m
+Author: xidianfushuai <1048367400@qq.com>
+Date:   Sat Jun 27 15:35:52 2015 +0800
+
+    add hello text file
