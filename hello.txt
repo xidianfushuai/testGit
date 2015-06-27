@@ -1,4 +1,5 @@
-nihao 
+//this is a java code 
+
 
 hello world ABC
 
